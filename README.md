@@ -1,4 +1,4 @@
-# CS5643-ONOS-Application
+# CS5643: ONOS Application
 The repository holds the source code for ONOS SDN Controller Application done for CS5643 Software Defined Networking course.
 ## Prerequisites
 #### ONOS SDN Controller
@@ -9,3 +9,7 @@ Mininet is used to create emulated data plane composed of SDN switches based on 
 IntelliJ is the IDE used to edit ONOS Java code and create ONOS applications.
 ## Step by Step Instructions
 Open terminal and start ONOS SDN Controller, 
+```shell
+$ cd onos
+$ ok --clean
+```
