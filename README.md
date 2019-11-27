@@ -1,5 +1,7 @@
 # CS5643: ONOS Application
 The repository holds the source code for ONOS SDN Controller Application done for CS5643 Software Defined Networking course.
+1. List all the known hosts that are attached to a particular device.
+2. Withdraw all the intents used by the host after its removal.
 ## Prerequisites
 #### ONOS SDN Controller
 ONOS is our OpenSource SDN Controller.
